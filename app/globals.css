@@ -25,6 +25,7 @@
 .profile-trigger:hover { background:rgba(255,255,255,.7); }
 .profile-trigger > svg { width:14px; color:#8793a6; }
 .profile-trigger:focus-visible,.notification:focus-visible { outline:3px solid rgba(16,185,129,.28); outline-offset:2px; }
+.form-error { margin:0 0 12px; padding:10px 12px; border:1px solid #f4b5bd; border-radius:8px; background:#fff1f3; color:#b42336; font-size:12px; }
 /* Reference dashboard visual system */
 .sidebar { width: 258px; flex-basis: 258px; background: rgba(255,255,255,.72); color: #12234a; padding: 24px 18px 18px; border-right: 1px solid rgba(255,255,255,.78); box-shadow: 12px 0 34px rgba(46, 111, 129, .08); }
 .brand { padding: 0 10px 36px; }
